@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 require File.expand_path('../lib/has-properties/version', __FILE__)
-require File.expand_path('../lib/has-properties', __FILE__)
+require File.expand_path('../lib/has_properties', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Rick Button"]
