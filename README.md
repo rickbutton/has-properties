@@ -1,4 +1,4 @@
-# has_properties
+# has-properties
 
 `has_properties` provides an easy way to create basic class definitions with properties. 
 It essentially wraps a lot of `attr_(reader/writer/accessor)` calls into a neat package
@@ -8,7 +8,7 @@ with a nifty initializer.
 
 Add this line to your application's Gemfile:
 
-    gem 'has_properties'
+    gem 'has-properties'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install has_properties
+    $ gem install has-properties
 
 ## Usage Example
 
